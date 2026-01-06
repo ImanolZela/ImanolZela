@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Imanol Zela 👋
 
-<!--
-**ImanolZela/ImanolZela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & Tech Lead with 3+ years of experience building scalable, maintainable and production-ready software systems.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- Full Stack Software Engineer with strong backend focus
+- Experience designing architectures and leading technical decisions
+- Specialized in Java & Spring (WebFlux)
+- Comfortable across frontend, backend and DevOps environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Backend**
+- Java, Spring Boot, WebFlux
+- Node.js, Laravel, Django
+
+**Frontend**
+- React, TypeScript
+
+**DevOps & Infrastructure**
+- Docker, Linux, CI/CD
+
+## 🏗 What I Work On
+- Backend architectures and APIs
+- Full stack business systems
+- Technical leadership and system design
+- Cloud-ready and containerized applications
+
+## 🌐 Company
+**ITS Tech Solutions**  
+https://www.itstech.pe
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/imanolzela
