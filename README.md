@@ -34,9 +34,11 @@ Strong background in <strong>full stack development</strong>,
 
 <hr/>
 
-<table width="100%">
+<table align="center" width="90%">
 <tr>
-<td width="50%" valign="top">
+
+<!-- LEFT COLUMN -->
+<td width="45%" valign="top">
 
 <h2>What I Do</h2>
 
@@ -48,6 +50,8 @@ Strong background in <strong>full stack development</strong>,
   <li>Participate in technical leadership and system optimization</li>
 </ul>
 
+<br/>
+
 <h2>Company</h2>
 <p>
 <strong>ITS Tech Solutions</strong><br/>
@@ -56,11 +60,12 @@ Strong background in <strong>full stack development</strong>,
 
 </td>
 
-<td width="50%" valign="top">
+<!-- RIGHT COLUMN -->
+<td width="55%" valign="top">
 
 <h2>Tech Stack</h2>
 
-<strong>Backend</strong><br/>
+<strong>Backend</strong><br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -69,26 +74,34 @@ Strong background in <strong>full stack development</strong>,
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 </p>
 
-<strong>Frontend</strong><br/>
+<br/>
+
+<strong>Frontend</strong><br/><br/>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white"/>
 </p>
 
-<strong>Desktop</strong><br/>
+<br/>
+
+<strong>Desktop</strong><br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white"/>
 </p>
 
-<strong>Databases</strong><br/>
+<br/>
+
+<strong>Databases</strong><br/><br/>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-<strong>DevOps</strong><br/>
+<br/>
+
+<strong>DevOps</strong><br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
