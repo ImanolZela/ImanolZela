@@ -2,7 +2,14 @@
 
 Software Engineer & Tech Lead with 3+ years of experience building production-ready software systems across web, desktop and backend environments.
 
-Strong background in full stack development, system architecture, relational databases and DevOps practices, with a focus on scalable and maintainable solutions.
+Strong background in full stack development, system architecture, relational databases and DevOps practices, focused on scalable and maintainable solutions.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-informational?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Desktop-Electron-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD-success?style=flat-square"/>
+</p>
 
 ---
 
@@ -59,9 +66,10 @@ https://www.itstech.pe
 
 ## 📊 GitHub Stats
 
-![Imanol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImanolZela&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanolZela&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImanolZela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanolZela&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
