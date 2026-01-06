@@ -34,7 +34,11 @@ Strong background in <strong>full stack development</strong>,
 
 <hr/>
 
-<h2 align="center">What I Do</h2>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h2>What I Do</h2>
 
 <ul>
   <li>Design and implement backend architectures and REST APIs</li>
@@ -44,11 +48,19 @@ Strong background in <strong>full stack development</strong>,
   <li>Participate in technical leadership and system optimization</li>
 </ul>
 
-<hr/>
+<h2>Company</h2>
+<p>
+<strong>ITS Tech Solutions</strong><br/>
+<a href="https://www.itstech.pe">https://www.itstech.pe</a>
+</p>
 
-<h2 align="center">Tech Stack</h2>
+</td>
 
-<h3>Backend</h3>
+<td width="50%" valign="top">
+
+<h2>Tech Stack</h2>
+
+<strong>Backend</strong><br/>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -57,26 +69,26 @@ Strong background in <strong>full stack development</strong>,
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 </p>
 
-<h3>Frontend</h3>
+<strong>Frontend</strong><br/>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white"/>
 </p>
 
-<h3>Desktop</h3>
+<strong>Desktop</strong><br/>
 <p>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white"/>
 </p>
 
-<h3>Databases</h3>
+<strong>Databases</strong><br/>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-<h3>DevOps & Infrastructure</h3>
+<strong>DevOps</strong><br/>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
@@ -84,13 +96,9 @@ Strong background in <strong>full stack development</strong>,
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
-<hr/>
-
-<h2 align="center">Company</h2>
-<p align="center">
-<strong>ITS Tech Solutions</strong><br/>
-<a href="https://www.itstech.pe">https://www.itstech.pe</a>
-</p>
+</td>
+</tr>
+</table>
 
 <hr/>
 
