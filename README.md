@@ -38,7 +38,7 @@ Strong background in <strong>full stack development</strong>,
 <tr>
 
 <!-- LEFT COLUMN -->
-<td width="45%" valign="top">
+<td width="35%" valign="top">
 
 <h2>What I Do</h2>
 
@@ -61,47 +61,51 @@ Strong background in <strong>full stack development</strong>,
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
 <h2>Tech Stack</h2>
 
-<strong>Backend</strong><br/><br/>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-</p>
+<table width="100%">
+<tr>
+  <td width="50%" valign="top">
+    <strong>Backend</strong><br/><br/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+    <br/><br/><br/>
+  </td>
+
+  <td width="50%" valign="top">
+    <strong>Frontend</strong><br/><br/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white"/>
+    <br/><br/><br/><br/>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+    <strong>Desktop</strong><br/><br/>
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white"/>
+    <br/><br/><br/><br/>
+  </td>
+
+  <td width="50%" valign="top">
+    <strong>Databases</strong><br/><br/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <br/><br/><br/><br/>
+  </td>
+</tr>
+</table>
 
 <br/>
 
-<strong>Frontend</strong><br/><br/>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white"/>
-</p>
-
-<br/>
-
-<strong>Desktop</strong><br/><br/>
-<p>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white"/>
-</p>
-
-<br/>
-
-<strong>Databases</strong><br/><br/>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-<br/>
-
-<strong>DevOps</strong><br/><br/>
+<strong>DevOps & Infrastructure</strong><br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
